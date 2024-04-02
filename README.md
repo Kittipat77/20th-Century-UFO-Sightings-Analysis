@@ -17,9 +17,7 @@ Note: Since the data source is self-reported, accuracy cannot be guaranteed.
 Running the Analysis:
 The code for this analysis is available on this GitHub repository.
 
-Requirements:
-Python
-Matplotlib
+Requirements: Python, Matplotlib
 
 The analysis reveals the following:
 1. Locations: The United States has the most reported UFO sightings, followed by California, England, Australia, and Germany.
